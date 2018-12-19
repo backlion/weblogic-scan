@@ -37,6 +37,7 @@ uuid页面的SSRF以及wls-wsat反序列化会在server服务器中留下日志�
 会在域名前带上受影响机子的地址，这样扫描多个地址的时候方便做区分。
 
 ![](1.png)
+![](pjyyengow.bkt.clouddn.com/20181219140041.png)
 
 # prepare
 
